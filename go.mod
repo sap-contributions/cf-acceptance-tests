@@ -4,15 +4,15 @@ go 1.18
 
 require (
 	code.cloudfoundry.org/archiver v0.0.0-20150428205605-f598990ddfed
-	code.cloudfoundry.org/go-loggregator/v9 v9.0.2
+	code.cloudfoundry.org/go-loggregator/v9 v9.0.3
 	github.com/cloudfoundry/cf-test-helpers/v2 v2.0.0
 	github.com/cloudfoundry/noaa/v2 v2.2.0
 	github.com/cloudfoundry/sonde-go v0.0.0-20220627221915-ff36de9c3435
 	github.com/mholt/archiver v3.1.1+incompatible
-	github.com/onsi/ginkgo/v2 v2.2.0
-	github.com/onsi/gomega v1.20.2
+	github.com/onsi/ginkgo/v2 v2.3.1
+	github.com/onsi/gomega v1.22.1
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
-	google.golang.org/grpc v1.49.0
+	google.golang.org/grpc v1.50.1
 	google.golang.org/protobuf v1.28.1
 )
 

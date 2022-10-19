@@ -4,7 +4,7 @@ code.cloudfoundry.org/archiver/extractor/test_helper
 # code.cloudfoundry.org/go-diodes v0.0.0-20220325013804-800fb6f70e2f
 ## explicit; go 1.16
 code.cloudfoundry.org/go-diodes
-# code.cloudfoundry.org/go-loggregator/v9 v9.0.2
+# code.cloudfoundry.org/go-loggregator/v9 v9.0.3
 ## explicit; go 1.18
 code.cloudfoundry.org/go-loggregator/v9
 code.cloudfoundry.org/go-loggregator/v9/rpc/loggregator_v2
@@ -119,7 +119,7 @@ github.com/onsi/ginkgo/reporters/stenographer
 github.com/onsi/ginkgo/reporters/stenographer/support/go-colorable
 github.com/onsi/ginkgo/reporters/stenographer/support/go-isatty
 github.com/onsi/ginkgo/types
-# github.com/onsi/ginkgo/v2 v2.2.0
+# github.com/onsi/ginkgo/v2 v2.3.1
 ## explicit; go 1.18
 github.com/onsi/ginkgo/v2
 github.com/onsi/ginkgo/v2/config
@@ -141,7 +141,7 @@ github.com/onsi/ginkgo/v2/internal/parallel_support
 github.com/onsi/ginkgo/v2/internal/testingtproxy
 github.com/onsi/ginkgo/v2/reporters
 github.com/onsi/ginkgo/v2/types
-# github.com/onsi/gomega v1.20.2
+# github.com/onsi/gomega v1.22.1
 ## explicit; go 1.18
 github.com/onsi/gomega
 github.com/onsi/gomega/format
@@ -225,7 +225,7 @@ golang.org/x/tools/internal/typeparams
 # google.golang.org/genproto v0.0.0-20220405205423-9d709892a2bf
 ## explicit; go 1.15
 google.golang.org/genproto/googleapis/rpc/status
-# google.golang.org/grpc v1.49.0
+# google.golang.org/grpc v1.50.1
 ## explicit; go 1.17
 google.golang.org/grpc
 google.golang.org/grpc/attributes
