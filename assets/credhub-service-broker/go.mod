@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	code.cloudfoundry.org/credhub-cli v0.0.0-20180712210539-55d15b91e8ce
-	github.com/gorilla/mux v1.8.0
+	github.com/gorilla/mux v1.8.1
 	github.com/satori/go.uuid v1.2.0
 )
 
