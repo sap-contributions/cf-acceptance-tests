@@ -16,8 +16,8 @@ github.com/cloudfoundry/go-socks5
 # github.com/cloudfoundry/socks5-proxy v0.0.0-20180321211136-3c6b4eec9c2d
 ## explicit
 github.com/cloudfoundry/socks5-proxy
-# github.com/gorilla/mux v1.8.0
-## explicit; go 1.12
+# github.com/gorilla/mux v1.8.1
+## explicit; go 1.20
 github.com/gorilla/mux
 # github.com/hashicorp/go-version v0.0.0-20171129150820-4fe82ae3040f
 ## explicit
