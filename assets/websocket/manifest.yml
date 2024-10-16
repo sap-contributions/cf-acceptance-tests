@@ -1,0 +1,8 @@
+---
+applications:
+  - name: websocket-test-app
+    memory: 128M
+    instances: 1
+    buildpacks:
+      - nodejs_buildpack
+    command: node app.js
