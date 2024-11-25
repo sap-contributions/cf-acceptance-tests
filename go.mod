@@ -13,7 +13,7 @@ require (
 	github.com/cloudfoundry/sonde-go v0.0.0-20230710164515-a0a43d1dbbf8
 	github.com/mholt/archiver/v3 v3.5.1
 	github.com/onsi/ginkgo/v2 v2.20.2
-	github.com/onsi/gomega v1.34.2
+	github.com/onsi/gomega v1.36.0
 	golang.org/x/crypto v0.28.0
 	google.golang.org/grpc v1.67.1
 	google.golang.org/protobuf v1.35.1
@@ -45,7 +45,7 @@ require (
 	github.com/ulikunitz/xz v0.5.10 // indirect
 	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	go.step.sm/crypto v0.54.0 // indirect
-	golang.org/x/net v0.29.0 // indirect
+	golang.org/x/net v0.30.0 // indirect
 	golang.org/x/sys v0.26.0 // indirect
 	golang.org/x/text v0.19.0 // indirect
 	golang.org/x/tools v0.25.0 // indirect
